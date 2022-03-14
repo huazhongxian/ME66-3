@@ -10,9 +10,7 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts",
-	"_locales/zh-cn/newland-strings.json",
-        "_locales/zh-tw/newland-strings.json"
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
